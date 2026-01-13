@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XYJgrace
-- 👀 I’m interested in art, design, and computer engineering!
+- 👀 I’m interested in art, design, and engineering!
 - 🌱 Currently learning MechE
 
 <!---
